@@ -1,1 +1,4 @@
 dummy file created
+welcome
+Hello
+Good morning
